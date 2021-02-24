@@ -10,12 +10,17 @@
       <change beforePath="$PROJECT_DIR$/docs/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/images/blog/Thumbs.db" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/images/blog/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/icon4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/images/index-3.psd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/images/logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/images/site-img1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/images/sliders/master/video/video-bg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/images/sliders/master/video/video.ogv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/images/sliders/master/video/video.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/v-line.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/js/mainmenu/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/mainmenu/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/js/masterslider/blank.gif" beforeDir="false" />
@@ -69,7 +74,7 @@
       <updated>1613453956251</updated>
       <workItem from="1613453959042" duration="14000" />
       <workItem from="1613736039160" duration="10718000" />
-      <workItem from="1613987367622" duration="23634000" />
+      <workItem from="1613987367622" duration="24366000" />
     </task>
     <servers />
   </component>
