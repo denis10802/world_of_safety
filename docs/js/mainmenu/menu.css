@@ -245,8 +245,8 @@
   text-indent: 0;
   speak: none;
   width: 100%;
-  left: 0;
-  top: 0;
+  left: 5px;
+  top: 15px;
 }
 
 .nav-toggle.active:before {

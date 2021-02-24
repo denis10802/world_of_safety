@@ -31,12 +31,12 @@
 /* Logo */
 .logo {
 	float: left;
-
 	background-color: #1da4dd;
 }
 .logo img {
-	width: 340px;
-	margin-left: 7px;
+	width: 345px;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 
 
@@ -86,8 +86,9 @@
 }
 
 
+
 /* columns */
-.one_half, .one_third, .one_fourth, .two_third, .three_fourth, .one_fifth {
+.one_half,.one_fourth, .two_third, .three_fourth, .one_fifth {
 	position: relative;
 	margin-right: 4%;
 	float: left;
@@ -99,7 +100,8 @@
 	width: 48%;
 }
 .one_third {
-	width: 30.650%;
+	flex-basis: 41%;
+	margin: 10px;
 }
 .one_fourth {
 	width: 22%;
@@ -113,7 +115,12 @@
 .three_fourth {
 	width: 74%;
 }
-
+.our-func{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	text-align: center;
+}
 .last {
 	margin-right: 0 !important;
 	clear: right;
@@ -219,7 +226,7 @@
 	float: left;
 	width: 100%;
 	padding: 90px 0px 90px 0px;
-	background: #1a94c7 url(../images/para-bg1.png) repeat-y center -65px;
+	background: #1a94c7 url(../images/call-to-action.png) repeat-y center -65px;
 }
 
 /* services section */
@@ -227,8 +234,9 @@
 	float: left;
 	width: 100%;
 	padding: 90px 0px 0px 0px;
-	background: #272727 url(../images/para-bg2.jpg) repeat-y center -150px;
+	background: #272727 url(../images/b3291fb708945e24cedaaf1ba36c27a5.png) no-repeat center;
 }
+
 .section3 .one_fourth {
 	text-align: center;
 	color: #fff;
@@ -380,7 +388,7 @@
 	width: 100%;
 	text-align: center;
 	padding: 100px 0px 100px 0px;
-	background:#1da4dd ;
+	background:#1da4dd url(../images/call-to-action.png) no-repeat center;
 	background-attachment: fixed;
 	background-origin: initial;
 	background-clip: initial;
@@ -482,12 +490,12 @@
 .section5 .one_third:hover h4 {
 	color: #fff;
 }
-.section5 .one_third img {
-	float: left;
-}
+/*.section5 .one_third img {*/
+/*	float: left;*/
+/*}*/
 .section5 .one_third .cont {
 	float: left;
-	padding: 30px 0px 40px 30px;
+	padding: 30px 30px ;
 }
 .section5 .one_third a {
 	color: #727272;
@@ -535,7 +543,7 @@
 	float: left;
 	width: 100%;
 	padding: 90px 0px 65px 0px;
-	background: #101010 url(../images/para-bg5.jpg) no-repeat center top;
+	background: #101010 url(../images/call-to-action.png) no-repeat center;
 }
 .cforms {
 	float: left;
@@ -545,6 +553,7 @@
 .addressinfo {
 	font-size: 16px;
 	line-height: 27px;
+	color: #fff
 }
 .addressinfo a {
 	color: #999;
@@ -554,6 +563,7 @@
 }
 .googglemap {
 	float: left;
+	width: 100%;
 }
 .google-map {
 	width: 99%;
@@ -606,14 +616,15 @@ a.glink:hover {
 
 /* scroll up */
 .scrollup{
-    width:40px;
-    height:40px;
+    width:60px;
+    height:60px;
     opacity:1;
     position:fixed;
     bottom:22px;
     right:20px;
     display:none;
     text-indent:-9999px;
-    background: url(../images/scroll-top-arrow.png) no-repeat left top;
+    background:#1da4dd url(../images/scroll-top-arrow.png) no-repeat center;
 	z-index: 999;
+	border-radius: 50px;
 }

@@ -47,7 +47,7 @@
 }
 
 .logo {
-	width: 30%;
+	width: 47%;
 }
 .menu_main {
 	width: 65%;
@@ -82,13 +82,17 @@
 	width: 100%;
 }
 
+
+
 }
 
 
 
 
 @media only screen and (min-width: 480px) and (max-width: 767px){
-	
+
+
+
 .container {
 	width: 460px;
 	margin: auto;
@@ -207,6 +211,13 @@
 
 
 @media only screen and (max-width: 479px){
+.googglemap {
+	width: 94%;
+}
+
+.one_third{
+	flex-basis: unset;
+}
 
 .container {
 	width: 300px;
@@ -271,7 +282,10 @@
 	width: 76%;
 }
 .logo img {
-	margin-left: 10px;
+	margin-left: 5px;
+	padding-bottom: 13px;
+	padding-top: 13px;
+	width: 235px;
 }
 
 .menu_main {

@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf30ae4d-2a12-4d70-b6bb-99d6a8505aa5" name="Default Changelist" comment="" />
+    <list default="true" id="bf30ae4d-2a12-4d70-b6bb-99d6a8505aa5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/images/media/header_bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/js/masterslider/ct_block_76977_image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/responsive-leyouts.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/responsive-leyouts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/index-3.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/site-img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/sliders/master/video/video-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/sliders/master/video/video.ogv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/sliders/master/video/video.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/mainmenu/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/mainmenu/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/masterslider/blank.gif" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +40,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\domains\world-safety\docs\images" />
+      <recent name="W:\domains\world-safety\docs\images\media" />
+      <recent name="W:\domains\world-safety\docs\images\sliders" />
+      <recent name="C:\Users\User\OneDrive\Рабочий стол\Андрей\world_safety\docs\js\masterslider" />
+      <recent name="C:\Users\User\OneDrive\Рабочий стол\Андрей\world_safety\docs\js\masterslider\style" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,10 +68,23 @@
       <option name="presentableId" value="Default" />
       <updated>1613453956251</updated>
       <workItem from="1613453959042" duration="14000" />
+      <workItem from="1613736039160" duration="10718000" />
+      <workItem from="1613987367622" duration="23634000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2355" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613992435635">
+      <screen x="1920" y="147" width="1366" height="728" />
+    </state>
+    <state x="2355" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.147.1366.728@1920.147.1366.728" timestamp="1613992435635" />
+    <state x="2364" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613903200673">
+      <screen x="1920" y="147" width="1366" height="728" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.147.1366.728@0.0.1536.824" timestamp="1613897346232" />
+    <state x="2364" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.147.1366.728@1920.147.1366.728" timestamp="1613903200673" />
   </component>
 </project>
