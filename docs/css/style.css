@@ -234,14 +234,15 @@
 	float: left;
 	width: 100%;
 	padding: 90px 0px 0px 0px;
-	background: #272727 url(../images/b3291fb708945e24cedaaf1ba36c27a5.png) no-repeat center;
+	background: #272727 url(../images/bg.png) no-repeat center;
 }
 
 .section3 .one_fourth {
 	text-align: center;
 	color: #fff;
 	padding: 30px 0px;
-	border-radius: 2px;
+	border-radius: 25px;
+	background: #2a383d
 }
 .section3 .one_fourth:hover, .section3 .one_fourth.active {
 	background-color: #1da4dd;
